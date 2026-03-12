@@ -1,1 +1,3 @@
-# Wicks_Decompositions
+-  Wicks_Decompositions for higher order time displaced correlators
+-   Theory of determinant quantum Monte Carlo
+-   Mean field theory of Hubbard model
